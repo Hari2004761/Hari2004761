@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Hari2004761/Hari2004761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year COmputer Science Engineering Student
 
 Here are some ideas to get you started:
 
