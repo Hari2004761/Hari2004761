@@ -94,6 +94,5 @@ I build production-grade Python backend systems with applied ML — REST APIs th
 ---
 
 <p align="center">
-  <i>Open to backend software engineering internships in Hungary and across Europe.</i><br>
-  <i>If you're building something interesting with Python, let's talk.</i>
+  <i>Open to backend software engineering internships in Hungary and across Europe.</i>
 </p>
