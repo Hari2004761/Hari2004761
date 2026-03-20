@@ -1,10 +1,10 @@
 # Hi, I'm Hari Narayanan Swaminathan 👋
 
-**Backend Software Engineer | Python & ML Systems | CS @ University of Debrecen**
+**Backend Software Engineer | Python & ML Systems | CSE @ University of Debrecen**
 
 I build production-grade Python backend systems with applied ML — REST APIs that actually serve models, not just notebooks. Currently a Research Assistant at the University of Debrecen, working on multimodal AI pipelines for food recognition and nutritional analysis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-narayanan-swaminathan-4b229b31b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harisept2004@gmail.com)
 
 ---
@@ -41,25 +41,25 @@ I build production-grade Python backend systems with applied ML — REST APIs th
 
 ## 🚀 Featured Projects
 
-### [Clausify — AI-Powered Contract Risk Analyzer](https://github.com/YOUR_USERNAME/clausify)
+### [Clausify — AI-Powered Contract Risk Analyzer](https://github.com/Hari2004761/clausify)
 > Production-grade REST API for contract risk analysis using a fine-tuned legal BERT model
 
 - Built an async FastAPI service handling PDF upload → text extraction → ML inference → annotated output across 8 risk categories
 - Fine-tuned Legal BERT on the LexGLUE benchmark — **77.2% weighted F1**, **83.7% precision**
 - Defense-in-depth security: JWT auth, file ownership verification, path traversal guards, rate limiting with account lockout
-- Full CI/CD pipeline with GitHub Actions, a 12-test pytest suite, and Docker containerization
+- Full CI/CD pipeline with GitHub Actions, a pytest suite, and Docker containerization
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `HuggingFace Transformers` `Docker` `GitHub Actions` `JWT` `pdfplumber` `PyMuPDF`
 
 ---
 
-### [AI Meal Nutrition Analyser](https://github.com/YOUR_USERNAME/nutrition-analyser) *(Research — In Progress)*
+### [AI Meal Nutrition Analyser](https://github.com/Hari2004761/nutrition-analyser) *(Research — In Progress)*
 > Multimodal pipeline combining YOLOv8 object detection with NLP-based semantic search for food recognition and nutritional calculation
 
 - Fine-tuning YOLOv8 to detect multiple food items from a single image
 - Vector similarity search using Sentence Transformers + cosine similarity to map detected foods to a nutrition database
 - Portion size estimation via bounding box pixel-area ratio heuristics
-- Deployed as a containerized FastAPI REST API processing image → detection → matching → nutrition in one request
+- Deployed as a containerized FastAPI processing image → detection → matching → nutrition in one request
 
 `Python` `FastAPI` `YOLOv8` `HuggingFace Sentence Transformers` `Docker`
 
@@ -69,7 +69,7 @@ I build production-grade Python backend systems with applied ML — REST APIs th
 
 **B.Sc. Computer Science Engineering** — University of Debrecen *(Sept 2023 – Jan 2027)*
 - GPA: **4.33 / 5.0**
-- Research Assistant — TalentUD DETEP Program, Faculty of Informatics
+- Research Assistant — TalentUD Program, Faculty of Informatics
 
 ---
 
@@ -87,13 +87,13 @@ I build production-grade Python backend systems with applied ML — REST APIs th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hari2004761&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari2004761&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to backend software engineering internships in Budapest and across Europe.</i><br>
+  <i>Open to backend software engineering internships in Hungary and across Europe.</i><br>
   <i>If you're building something interesting with Python, let's talk.</i>
 </p>
